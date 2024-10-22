@@ -9,6 +9,3 @@ The main bank class, mostly has menus to let navigate through the different func
 
 # "Output.pdf"
 A bit of sample output showing the creation of an account and depositing/withdrawing money
-
-# "PROG 2100 - Assignment2.docx"
-The original instructions for this assignment. Not required to have here, but still nice to have all in one place
